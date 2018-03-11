@@ -1,0 +1,5 @@
+# Android Gradle整理项目
+
+## 项目说明
+
+Android Studio开发时经常会根据不同的需要创建不同的module，这样的项目结构更加清晰易懂，也符合模块化思想，但是使用时不可避免出现了依赖问题，compileSdkVersion和targetSdkVersion等不一致导致的问题，所以本文致力于解决项目中各个module的统一问题
